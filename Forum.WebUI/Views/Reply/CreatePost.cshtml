@@ -1,0 +1,43 @@
+﻿@model Forum.WebUI.Models.Post.PostReplyModel
+@{
+    ViewData["Title"] = "CreatePost";
+}
+
+<div class="container body-content">
+    <div class="row sectionHeader">
+        <div class="sectionHeading">
+            Reply | @Model.PostName
+        </div>
+        <div class="forumLogo" style="background-image:url(@Model.ForumImageUrl)"></div>
+        <span id="headingBtn">
+            <a asp-controller="Post" asp-action="Index" asp-route-id="@Model.PostId" class="btn btn-back">Back to post</a>
+        </span>
+    </div>
+    <div class="row">
+        <div id="originalPost">
+            <h3>@Model.PostName</h3>
+            <p>@Model.PostContent</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="createPostSection">
+            <div class="authorBlock">
+                You're submitting this reply @Model.AuthorName
+            </div>
+
+            <form asp-action="AddReply" method="post" id="addPostForm">
+                <div class="text-danger" asp-validation-summary="All"></div>
+                <div class="form-group">
+                    <label asp-for="ReplyContent">Reply:</label>
+                    <textarea asp-for="ReplyContent" rows="20" class="form-control" placeholder="Your reply..."></textarea>
+                    <span asp-validation-for="ReplyContent" class="text-danger"></span>
+                </div>
+                <button type="submit" id="submitReplyBtn" class="btn btn-submitPost">Submit Reply</button>
+                <input asp-for="AuthorId" type="hidden" />
+                <input asp-for="PostId" type="hidden" />
+                <input asp-for="ForumId" type="hidden" />
+            </form>
+        </div>
+    </div>
+</div>
+

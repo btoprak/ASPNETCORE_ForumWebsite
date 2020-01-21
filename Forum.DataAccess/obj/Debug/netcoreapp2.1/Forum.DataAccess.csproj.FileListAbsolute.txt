@@ -1,0 +1,14 @@
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\bin\Debug\netcoreapp2.1\Forum.DataAccess.deps.json
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\bin\Debug\netcoreapp2.1\Forum.DataAccess.dll
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\obj\Debug\netcoreapp2.1\Forum.DataAccess.csprojAssemblyReference.cache
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\obj\Debug\netcoreapp2.1\Forum.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\obj\Debug\netcoreapp2.1\Forum.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\obj\Debug\netcoreapp2.1\Forum.DataAccess.AssemblyInfo.cs
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\bin\Debug\netcoreapp2.1\Forum.Entities.dll
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\bin\Debug\netcoreapp2.1\Forum.DataAccess.runtimeconfig.json
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\bin\Debug\netcoreapp2.1\Forum.DataAccess.runtimeconfig.dev.json
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\bin\Debug\netcoreapp2.1\Forum.DataAccess.pdb
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\bin\Debug\netcoreapp2.1\Forum.Entities.pdb
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\obj\Debug\netcoreapp2.1\Forum.DataAccess.csproj.CopyComplete
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\obj\Debug\netcoreapp2.1\Forum.DataAccess.dll
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.DataAccess\obj\Debug\netcoreapp2.1\Forum.DataAccess.pdb

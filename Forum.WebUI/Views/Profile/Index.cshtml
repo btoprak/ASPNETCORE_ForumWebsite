@@ -1,0 +1,38 @@
+﻿@model Forum.WebUI.Models.ApplicationUser.ProfileListModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container body-content">
+    <div class="row sectionHeader">
+        <div class="sectionHeading">Browser Users</div>
+    </div>
+    <div class="row" id="forumIndexContent">
+        <table class="table table-hover" id="userIndexTable">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>UserName</th>
+                    <th>Email</th>
+                    <th>Member Since</th>
+                    <th>Rating</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var profile in Model.Profiles)
+                {
+                    <tr class="userRow">
+                        <td>
+                            <div class="userProfilePic" style="background-image:url(@profile.ProfileImageUrl)"></div>
+                        </td>
+                        <td>@profile.UserName</td>
+                        <td>@profile.Email</td>
+                        <td>@profile.MemberSince</td>
+                        <td>@profile.UserRating</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

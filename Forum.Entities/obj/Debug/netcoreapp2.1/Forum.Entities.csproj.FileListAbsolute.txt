@@ -1,0 +1,12 @@
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\bin\Debug\netcoreapp2.1\Forum.Entities.deps.json
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\bin\Debug\netcoreapp2.1\Forum.Entities.dll
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\bin\Debug\netcoreapp2.1\Forum.Entities.pdb
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\obj\Debug\netcoreapp2.1\Forum.Entities.csprojAssemblyReference.cache
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\obj\Debug\netcoreapp2.1\Forum.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\obj\Debug\netcoreapp2.1\Forum.Entities.AssemblyInfoInputs.cache
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\obj\Debug\netcoreapp2.1\Forum.Entities.AssemblyInfo.cs
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\obj\Debug\netcoreapp2.1\Forum.Entities.csproj.CopyComplete
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\obj\Debug\netcoreapp2.1\Forum.Entities.dll
+C:\Users\Toprak\source\repos\Forum.AspNetCore\Forum.Entities\obj\Debug\netcoreapp2.1\Forum.Entities.pdb
